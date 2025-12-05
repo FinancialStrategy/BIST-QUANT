@@ -6,5 +6,5 @@ plotly
 matplotlib
 seaborn
 scipy
-pypfopt
+pyportfolioopt
 arch
