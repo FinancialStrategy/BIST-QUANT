@@ -6,7 +6,7 @@ plotly
 matplotlib
 seaborn
 scipy
-PyPortfolioOpt
-arch
 scikit-learn
 cvxpy
+PyPortfolioOpt
+arch
